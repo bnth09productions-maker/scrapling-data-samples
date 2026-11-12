@@ -1,0 +1,9 @@
+rank,dex,category,chains,volume_24h_usd,volume_7d_usd,volume_30d_usd,change_1d_pct,change_7d_pct,fees_24h_usd,tvl_usd,pools_tracked,source
+1,uniswap-v3,Dexs,"Arbitrum, Avalanche, BSC, Base, Celo, Ethereum, Gnosis, Optimism, Polygon, Scroll, Unichain, zkSync",731266153.0,,,,,514325.0,912331624.0,395,onchain
+2,curve,Dexs,"Arbitrum, Base, Ethereum, Optimism, Polygon",239391079.0,,,,,52522.0,805919031.0,246,onchain
+3,pancakeswap-v3,Dexs,"Arbitrum, BSC, Base, Ethereum, Linea, zkSync",207590597.0,,,,,64941.0,286168077.0,131,onchain
+4,uniswap-v4,Dexs,"Arbitrum, Avalanche, BSC, Base, Ethereum, Optimism, Polygon, Unichain",59766189.0,,,,,49661.0,169176752.0,163,onchain
+5,aerodrome-slipstream,Dexs,Base,9237327.0,,,,,5761.0,18212803.0,48,onchain
+6,uniswap-v2,Dexs,"Arbitrum, Base, Ethereum",3855297.0,,,,,11566.0,91431235.0,47,onchain
+7,pancakeswap-v2,Dexs,BSC,3729049.0,,,,,6339.0,102807454.0,36,onchain
+8,sushiswap-v3,Dexs,"Arbitrum, Base, Ethereum, Linea, Polygon, Scroll",1513257.0,,,,,3936.0,21376340.0,19,onchain

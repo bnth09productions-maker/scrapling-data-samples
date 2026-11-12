@@ -1,0 +1,8 @@
+symbol,name,peg_type,peg_mechanism,price_usd,circulating,circulating_prev_day,circulating_prev_week,circulating_prev_month,chains,circulating_by_chain,source,rank
+USDT,Tether,peggedUSD,fiat-backed,1.0,183882948694.0,183883220996.31406,183918789685.0521,,"Tron, Ethereum, Solana, Arbitrum, Polygon","{'Ethereum': 84296691994.0, 'Tron': 94211452335.0, 'Solana': 3839903041.0, 'Arbitrum': 825949333.0, 'Polygon': 708951991.0}",onchain totalSupply,1
+USDC,USD Coin,peggedUSD,fiat-backed,0.99979,52859483047.0,53017162382.17419,53919273569.77056,,"Ethereum, Base, Arbitrum, Polygon, Optimism","{'Ethereum': 45226008616.0, 'Arbitrum': 2477157018.0, 'Polygon': 552174119.0, 'Base': 4482285929.0, 'Optimism': 121857365.0}",onchain totalSupply,2
+USDS,Sky Dollar,peggedUSD,crypto-backed,1.0,5366743852.0,5356027632.069601,6478416201.293609,,Ethereum,{'Ethereum': 5366743852.0},onchain totalSupply,3
+USDe,Ethena USDe,peggedUSD,synthetic (delta-neutral),0.99885,4900716825.0,4912660933.767097,4586978647.318978,,Ethereum,{'Ethereum': 4900716825.0},onchain totalSupply,4
+DAI,Dai,peggedUSD,crypto-backed,1.0,4458650985.0,4489316578.374849,4491441297.983787,,Ethereum,{'Ethereum': 4458650985.0},onchain totalSupply,5
+RLUSD,Ripple USD,peggedUSD,fiat-backed,1.0,1816237715.0,1811598327.5554805,1734328720.5054805,,Ethereum,{'Ethereum': 1816237715.0},onchain totalSupply,6
+PYUSD,PayPal USD,peggedUSD,fiat-backed,0.999828,1692419974.0,1718722949.860811,1780490196.544161,,Ethereum,{'Ethereum': 1692419974.0},onchain totalSupply,7

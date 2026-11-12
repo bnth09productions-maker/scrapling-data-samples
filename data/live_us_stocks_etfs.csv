@@ -1,0 +1,8 @@
+symbol,name,type,exchange,price_usd,change_1d_pct,change_5d_pct,day_high,day_low,volume,week52_high,week52_low,market_time,oracle,source,unavailable
+AAPL,Apple,EQUITY,NYSE,356.345,2.525,1.396,356.345,347.57,,,,2026-11-12T13:02:43Z,chainlink:arbitrum:0x8d0CC5f38f9E802475f2CFf4F9fc7000C2E1557c,chainlink_onchain,"volume, week52_high, week52_low"
+AMZN,Amazon,EQUITY,NYSE,265.335,-2.184,-1.403,271.26,265.335,,,,2026-11-12T13:10:26Z,chainlink:arbitrum:0xd6a77691f071E98Df7217BED98f38ae6d2313EBA,chainlink_onchain,"volume, week52_high, week52_low"
+COIN,Coinbase,EQUITY,NYSE,136.42,3.274,-10.099,138.73,133.155,,,,2026-11-11T20:41:52Z,chainlink:arbitrum:0x950DC95D4E537A14283059bADC2734977C454498,chainlink_onchain,"volume, week52_high, week52_low"
+GOOGL,Alphabet,EQUITY,NYSE,291.95,1.502,0.944,295.08,287.63,,,,2026-11-12T13:15:21Z,chainlink:arbitrum:0x1D1a83331e9D255EB1Aaf75026B60dFD00A252ba,chainlink_onchain,"volume, week52_high, week52_low"
+META,Meta,EQUITY,NYSE,628.315,-2.133,-0.457,645.535,628.315,,,,2026-11-11T21:00:03Z,chainlink:arbitrum:0xcd1bd86fDc33080DCF1b5715B6FCe04eC6F85845,chainlink_onchain,"volume, week52_high, week52_low"
+MSFT,Microsoft,EQUITY,NYSE,519.12,-2.695,-6.48,533.5,519.05,,,,2026-11-11T20:31:15Z,chainlink:arbitrum:0xDde33fb9F21739602806580bdd73BAd831DcA867,chainlink_onchain,"volume, week52_high, week52_low"
+NVDA,Nvidia,EQUITY,NYSE,166.385,-3.191,-16.149,177.2,166.385,,,,2026-11-12T13:15:29Z,chainlink:arbitrum:0x4881A4418b5F2460B21d6F08CD5aA0678a7f262F,chainlink_onchain,"volume, week52_high, week52_low"

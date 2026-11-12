@@ -1,0 +1,11 @@
+row_type,coin,symbol,dex,venue,mark_px,oracle_px,mid_px,change_24h_pct,funding_rate_1h_pct,funding_rate_8h_pct,funding_apr_pct,funding_direction,premium_pct,open_interest_usd,open_interest_contracts,volume_24h_usd,max_leverage,volume_rank,oi_rank,as_of,source
+stock_perp,xyz:NVDA,NVDA,xyz,XYZ,159.12,158.95,159.205,-9.1573,0.003919,0.03135,34.327,longs pay shorts,0.1642,535656589.45,3366368.7119999994,1356164887.59,20,1,,2026-11-12T13:25:29Z,hyperliquid.public.info
+stock_perp,xyz:SOXL,SOXL,xyz,XYZ,60.135,60.141,60.13,-7.4276,0.000625,0.005,5.475,longs pay shorts,-0.01164,34556528.44,574649.18,440931875.05,10,2,,2026-11-12T13:25:29Z,hyperliquid.public.info
+stock_perp,xyz:XYZ100,XYZ100,xyz,XYZ,27984.0,27990.0,27983.5,-1.0362,0.000263,0.00211,2.306,longs pay shorts,-0.02322,213497105.5,7629.2562,432070340.42,30,3,,2026-11-12T13:25:29Z,hyperliquid.public.info
+stock_perp,xyz:SKHX,SKHX,xyz,XYZ,919.45,924.97,919.485,-5.1448,-0.048158,-0.38527,-421.866,shorts pay longs,-0.59299,288991603.13,314309.21,396447304.15,10,4,,2026-11-12T13:25:29Z,hyperliquid.public.info
+stock_perp,xyz:SP500,SP500,xyz,XYZ,7560.3,7563.5,7560.2,-0.4438,-0.000728,-0.00582,-6.375,shorts pay longs,-0.04674,453496143.08,59983.882,351198268.85,50,5,,2026-11-12T13:25:29Z,hyperliquid.public.info
+stock_perp,xyz:SNDK,SNDK,xyz,XYZ,911.49,911.1,911.495,-2.764,0.001554,0.01243,13.609,longs pay shorts,0.04226,95203783.32,104448.522,227411994.94,10,6,,2026-11-12T13:25:29Z,hyperliquid.public.info
+stock_perp,xyz:AMD,AMD,xyz,XYZ,555.87,555.77,555.82,2.1576,0.000625,0.005,5.475,longs pay shorts,0.00954,43079151.23,77498.608,213023663.02,10,7,,2026-11-12T13:25:29Z,hyperliquid.public.info
+stock_perp,xyz:MU,MU,xyz,XYZ,770.82,770.3,770.845,-1.1706,0.002414,0.01931,21.147,longs pay shorts,0.07075,155288498.42,201458.834,180475785.5,10,8,,2026-11-12T13:25:29Z,hyperliquid.public.info
+stock_perp,xyz:SPCX,SPCX,xyz,XYZ,138.02,138.0,138.005,-5.18,0.000991,0.00792,8.677,longs pay shorts,0.00362,142721529.84,1034064.12,165255426.83,20,9,,2026-11-12T13:25:29Z,hyperliquid.public.info
+stock_perp,xyz:NBIS,NBIS,xyz,XYZ,131.38,131.14,131.405,-13.8096,0.004542,0.03634,39.791,longs pay shorts,0.20474,41691758.71,317337.1800000001,133624283.43,10,10,,2026-11-12T13:25:29Z,hyperliquid.public.info

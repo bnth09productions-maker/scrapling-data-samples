@@ -1,0 +1,2 @@
+chain,token_address,token_symbol,token_name,pool_name,liquidity_usd,age_minutes,risk_score_0_100,risk_level,risk_flags,buy_tax,sell_tax,holder_count,creator_percent,is_open_source,owner_renounced,simulation,source,unavailable
+base,0xcbcad4caa2cc9a6bab7275a947374fa0cf01e33c,BIDEN,OFFICIAL JOE BIDEN,BIDEN / WETH,168666.47,83.2,0,low,none,0,0,,,,True,,onchain_live,"holder_count, creator_percent, is_open_source"

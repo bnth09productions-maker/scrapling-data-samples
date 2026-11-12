@@ -1,0 +1,11 @@
+rank,chain,token_symbol,tvl_usd,chain_id,change_1d_pct,coverage,source
+1,Ethereum,ETH,103420215916,1,-1.12,sum of protocol TVL we compute on-chain for this chain (floor; long-tail tokens unpriced),onchain
+2,Base,ETH,7565565868,8453,-1.104,sum of protocol TVL we compute on-chain for this chain (floor; long-tail tokens unpriced),onchain
+3,BSC,BNB,3528822200,56,-1.52,sum of protocol TVL we compute on-chain for this chain (floor; long-tail tokens unpriced),onchain
+4,Arbitrum,ETH,1765719773,42161,-0.663,sum of protocol TVL we compute on-chain for this chain (floor; long-tail tokens unpriced),onchain
+5,Avalanche,AVAX,487892505,43114,-2.221,sum of protocol TVL we compute on-chain for this chain (floor; long-tail tokens unpriced),onchain
+6,Mantle,MNT,296214630,5000,-9.121,sum of protocol TVL we compute on-chain for this chain (floor; long-tail tokens unpriced),onchain
+7,Polygon,POL,222058036,137,-1.664,sum of protocol TVL we compute on-chain for this chain (floor; long-tail tokens unpriced),onchain
+8,Optimism,ETH,129774501,10,-1.12,sum of protocol TVL we compute on-chain for this chain (floor; long-tail tokens unpriced),onchain
+9,Sonic,S,114553371,146,0.119,sum of protocol TVL we compute on-chain for this chain (floor; long-tail tokens unpriced),onchain
+10,Plasma,XPL,105959614,9745,-4.179,sum of protocol TVL we compute on-chain for this chain (floor; long-tail tokens unpriced),onchain

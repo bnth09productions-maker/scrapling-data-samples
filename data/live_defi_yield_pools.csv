@@ -1,0 +1,11 @@
+pool_id,project,chain,symbol,tvl_usd,apy_pct,apy_base_pct,apy_reward_pct,apy_30d_mean_pct,stablecoin,il_risk,exposure,predicted_trend,borrow_apy_pct,utilization_pct,underlying_token,pool_contract,pool_meta,fee_tier_pct,fees_24h_usd,volume_24h_usd,source
+aave-v3:ethereum:0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,aave-v3,Ethereum,WETH,4282727737.0,1.42,1.42,,,False,no,single,,2.038,82.25,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,,,,,,onchain
+aave-v3:ethereum:0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee,aave-v3,Ethereum,weETH,3011791194.0,0.0,0.0,,,False,no,single,,1.006,0.0,0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee,,,,,,onchain
+aave-v3:ethereum:0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48,aave-v3,Ethereum,USDC,2854937439.0,4.484,4.484,,,True,no,single,,5.299,94.4,0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48,,,,,,onchain
+aave-v3:ethereum:0xdac17f958d2ee523a2206206994597c13d831ec7,aave-v3,Ethereum,USDT,2691201439.0,3.294,3.294,,,True,no,single,,4.24,86.73,0xdac17f958d2ee523a2206206994597c13d831ec7,,,,,,onchain
+aave-v3:ethereum:0x2260fac5e5542a773aa44fbcfedf7c193bc2c599,aave-v3,Ethereum,WBTC,2467888520.0,0.003,0.003,,,False,no,single,,0.313,1.99,0x2260fac5e5542a773aa44fbcfedf7c193bc2c599,,,,,,onchain
+aave-v3:ethereum:0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0,aave-v3,Ethereum,wstETH,2010136769.0,0.0,0.0,,,False,no,single,,0.018,1.45,0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0,,,,,,onchain
+morpho-blue:base:0x9103c3b4e834476c9a62ea009ba2c884ee42e94e6e314a26f04d312434191836,morpho-blue,Base,USDC (cbBTC coll.),1910814919.0,4.518,4.518,,,True,no,single,,5.325,84.85,0x833589fcd6edb6e08f4c7c32d4f71b54bda02913,,"cbBTC collateral, LLTV 86.0%",,,,onchain
+aave-v3:ethereum:0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf,aave-v3,Ethereum,cbBTC,1398825121.0,0.001,0.001,,,False,no,single,,0.283,0.66,0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf,,,,,,onchain
+spark:ethereum:0xdc035d45d973e3ec169d2276ddab16f1e407384f,spark,Ethereum,USDS,1154522995.0,3.502,3.502,,,True,no,single,,5.0,78.39,0xdc035d45d973e3ec169d2276ddab16f1e407384f,,,,,,onchain
+spark:ethereum:0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,spark,Ethereum,WETH,1112969707.0,1.704,1.704,,,False,no,single,,2.082,86.34,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,,,,,,onchain
